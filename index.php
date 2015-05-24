@@ -7,6 +7,11 @@
         <meta name="description" content="An open course for teachers">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
+        <!-- facebook meta tags -->
+        <meta property="og:image" content="img/mooc.jpg" />
+        <meta property="og:title" content="Teaching with technology and inquiry" />
+        <meta property="og:description" content="An open course for teachers" />
+
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
         <!-- Place favicon.ico in the root directory -->
 
@@ -98,7 +103,7 @@
 
         <div class="clear description">
             <div class="central">
-                <h3 id="description">An open course designed with k-12 teachers in mind.</h3>
+                <h3 id="description">a free course designed with k-12 teachers in mind.</h3>
                 <p>This is a MOOC for teachers in STEAM topics (science, technology engineering, arts, math) that want to learn about adding inquiry and technology lessons to their classrooms. In this course you will find a large community of teachers from around the world with whom you will be able to share resources and exchange ideas about what works for specific topics and age groups and also engage in design groups to collaboratively develop a new lesson.</p>
 
                 <iframe width="660" height="330" src="https://www.youtube.com/embed/iFHWMwEPh18" frameborder="0" allowfullscreen></iframe>
@@ -137,7 +142,7 @@
                 <div class="description2 left">
                     <h3 id="instructors">Research and practice together to provide a BROAD overview of teaching with technology and inquiry.</h3>
 
-                    <p>Instructors are from the two worlds of research and practice - a professor and a school principal who will present their perspective and expertise each week and lead you to reflect on examples and even design new lessons of your own. In addition, each week a different UTS teacher will include examples from real classrooms and active learning experiences.</p>
+                    <p>Instructors are from the two worlds of research and practice - a professor and a school principal who team up to share their experiences and lead you to reflect on examples and even design new lessons of your own. In addition, each week a different UTS teacher will present real examples of teaching with technology and inquiry directly from their classes.</p>
                 </div>
 
                 <div class="instructorslist right">
@@ -145,7 +150,7 @@
                         <li>
                             <div class="img overflow br-100"><img src="img/instructor1.png" alt="Instructor Jim Slotta"></div>
                             <h4>Jim Slotta</h4>
-                            <p>Canada Research Chair in Education and Technology</p>
+                            <p>Research Chair in Education and Technology</p>
                             <p><em>University of Toronto</em></p>
                         </li>
 
